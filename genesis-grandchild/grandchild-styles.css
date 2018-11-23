@@ -2089,9 +2089,9 @@ h4.widget-title.widgettitle {
 	z-index: 999;
 	position: relative;
 }
-.programs-hero-image:after {
+/*.programs-hero-image:after {
 	background: none;
-}
+}*/
 #give-lively-widget {
 	background: rgba(255, 250, 250, .8);
 	padding: 10px;
